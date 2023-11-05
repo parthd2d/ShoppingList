@@ -37,6 +37,7 @@ class _NewItemState extends State<NewItem> {
         'flutter-prep-6ab88-default-rtdb.firebaseio.com',
         'shopping-list.json',
       );
+      
 
       final response = await http.post(
         url,
@@ -71,7 +72,7 @@ class _NewItemState extends State<NewItem> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Add a new item'),
+        title: const Text('Add Item'),
       ),
       body: Padding(
         padding: const EdgeInsets.all(12),
