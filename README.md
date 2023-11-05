@@ -46,4 +46,4 @@ Happy shopping with the Shopping List App!
 
 ## Author
 
-- [Your Name](https://github.com/parthd2d)
+- [Parth Dandekar](https://github.com/parthd2d)
